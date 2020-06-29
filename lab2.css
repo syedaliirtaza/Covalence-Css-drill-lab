@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    background-color: lightgray;
+}
+h2, p, .link-center{
+    text-align: center;
+}
+/* .link-center {
+    position: relative;
+    left: 21.8em;
+} */
+a {
+    text-decoration: none;
+    color: purple;
+}
+a:hover {
+    color: red;
+    font-size: bold;
+}
+p span {
+    color: rgb(41, 30, 20);
+    font-weight: 700;
+}
+.boxes {
+    width: 30em;
+    margin-bottom: 5px;
+    /* padding: auto; */
+    padding: 25px 25px 30px 30px;
+    border: 1px solid lightcoral;
+    border-radius: 5px;
+    display: block;
+}
+#box1{
+    background-color: lightgreen;
+}
+#box2{
+    background-color: lightsalmon;
+    /* position: relative; */
+    /* left: 36em;
+    top: -16.5em; */
+    /* position: absolute;
+    top: 0em;
+    left: 35.7em; */
+    
+}
+#box3{
+    background-color: lightslategray;
+}
+#box4{
+    background-color: maroon;
+}
+.thisdiv {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: olive;
+    position: absolute;
+    left: 9em;
+
+}
+.orignal {
+    color: palevioletred;
+}
+.additional {
+    color: saddlebrown;
+}
+#show1 {
+    color: sandybrown;
+}
+#show2  {
+    color: slateblue;
+}
+#show3 {
+    color: teal;
+}
+#show4 {
+    color: yellow;
+}
+#show5{
+    color: violet;
+}
+ul li{
+    color: rgb(58, 56, 56);
+
+}
+.star {
+    color: darkred;
+  
+}
+#wars {
+    color: darkgreen;
+}
+.tvshowborder {
+    border: 2px solid black;
+}
